@@ -1,2 +1,7 @@
 # Neidon Plus
-The Neidon Plus mod, which introduces rings, moons, and a brand new texture for OPM's planet Niedon.
+The Neidon Plus mod, which introduces rings, 4 moons, and a brand new texture for OPM's planet Neidon.
+
+Soon to come:
+- Thatmo retexture
+- Expanded science defs
+- Expanded mod compatibility
